@@ -1,0 +1,54 @@
+body{
+    background-color: #c0c0c0;
+    
+}
+table{
+    border-collapse: seperate;
+    width: 100%;
+    border: 1px solid red
+}
+
+td{
+    border: 1px solid gray; 
+    text-decoration: green; 
+}
+p{
+color:brown;
+}
+td{
+color:rgb(128, 119, 0);
+}
+
+img{
+    float: centre;
+}
+
+/*
+div.position-fx{
+    position: fixed;
+}
+    */
+
+h3{
+color:rgb(36, 128, 0);
+}
+
+div.overflow_sth{
+    width: 150px;
+    height: 150px;
+    background-color: lightblue;
+    float: inline-left;
+    overflow: scroll;
+}
+
+/*
+tr.sth1{
+    text-decoration: green;
+}
+p{
+
+}
+tr.sth3{
+    text-decoration: blue;
+}
+*
